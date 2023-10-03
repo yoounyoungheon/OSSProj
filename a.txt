@@ -2,5 +2,5 @@ git&github practice
 a
 b
 c
-g
-f
+d
+e
